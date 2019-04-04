@@ -1,6 +1,6 @@
 # lib_ruby
 
-Contributors : Carolina Fereira et Robin d'Ercole
+Contributors : Carolina Ferreira et Robin d'Ercole
 
 exo_00 : Dis bonjour ! on définit une méthode qui permet de demander son nom à l'utilisateur grâce à la commande gets.chomp. Cette methode retourne ce qui a été entré par l'utilisateur et qui est enregistré dans la variable first_name. On définit une 2eme méthode qui prend pour argument la variable first_name, et qui simplplement dis : "bonjour, first_name " >>> first_name devient ce qui est entré par l'utilisateur. On crée une 3eme méthode nommée perform: celle-ci va appeler les 2 méthodes préalablement définit et s'exécute dans l'ordre.
 
